@@ -1,0 +1,25 @@
+.navbar{
+    width: 100vw;
+    height: 50px;
+    color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image: url(https://images.pexels.com/photos/1169754/pexels-photo-1169754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+
+.navbar-title{
+    color: red;
+    margin-left: 75px;
+    font-size: 10px;
+}
+
+.navbar-menu{
+    margin-right: 75px;
+    font-size: 14px;
+}
+.navbar-menu a {
+    color: white;
+    text-decoration: none;
+    margin: 0 5px;
+}
